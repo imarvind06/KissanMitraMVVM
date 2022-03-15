@@ -1,11 +1,17 @@
 Weather App Using OpenWeatherMap API service Daily Forecast and Historical Weather based on users location and using Basic weather map service to display precipitation and temperature on Google Maps.
 Details:-
 Framework:- Flutter
+
 IDE:- VS code
+
 State Management Tools:- Provider
+
 Architecture Pattern:- MVVM
+
 Apis:- Google Map Apis, OpenWeatherMap API
+
 Package:- cupertino_icons, provider, geolocator, http, intl, google_maps_flutter, mocktail.
+
 Note:-Application also works fine in Portrait Mode.
 
 ScreenShot:-                                   
